@@ -29,7 +29,7 @@ To set up and run the Store Management API project in Spring Tool Suite (STS), f
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/ashraf4343/Store_management_API.git
+    git clone https://github.com/
     ```
 
 2. **Import the Project into Spring Tool Suite**:
